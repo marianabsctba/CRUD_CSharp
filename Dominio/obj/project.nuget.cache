@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rqFYdAhtJL9hAXnoVxs6/grcMqb62esiUr1kwM3KZHE93ZDwJPwDnadBNal6xEl+nh9eQp/ieYTxgM4iTdUbZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cliente\\Desktop\\TP3-Mariana-Sukevicz\\Dominio\\DomainDonation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

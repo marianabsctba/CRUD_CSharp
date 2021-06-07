@@ -1,0 +1,12 @@
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Infraestrutura\bin\Debug\netstandard2.0\Infra.deps.json
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Infraestrutura\bin\Debug\netstandard2.0\Infra.dll
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Infraestrutura\bin\Debug\netstandard2.0\Infra.pdb
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Infraestrutura\bin\Debug\netstandard2.0\DomainDonation.dll
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Infraestrutura\bin\Debug\netstandard2.0\DomainDonation.pdb
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Infraestrutura\obj\Debug\netstandard2.0\Infra.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Infraestrutura\obj\Debug\netstandard2.0\Infra.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Infraestrutura\obj\Debug\netstandard2.0\Infra.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Infraestrutura\obj\Debug\netstandard2.0\Infra.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Infraestrutura\obj\Debug\netstandard2.0\Infra.csproj.CopyComplete
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Infraestrutura\obj\Debug\netstandard2.0\Infra.dll
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Infraestrutura\obj\Debug\netstandard2.0\Infra.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s/liUeLoeRZFHIxM+OBjVM9PeVCNgLCArvjUqEyPlgYhHJsWDAPdc20lzJXpPu2Ox2xY7xXURX/rNnYZ4fzpDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cliente\\Desktop\\TP3-Mariana-Sukevicz\\Infraestrutura\\Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

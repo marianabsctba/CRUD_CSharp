@@ -1,0 +1,9 @@
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Dominio\bin\Debug\netstandard2.0\DomainDonation.deps.json
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Dominio\bin\Debug\netstandard2.0\DomainDonation.dll
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Dominio\bin\Debug\netstandard2.0\DomainDonation.pdb
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Dominio\obj\Debug\netstandard2.0\DomainDonation.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Dominio\obj\Debug\netstandard2.0\DomainDonation.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Dominio\obj\Debug\netstandard2.0\DomainDonation.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Dominio\obj\Debug\netstandard2.0\DomainDonation.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Dominio\obj\Debug\netstandard2.0\DomainDonation.dll
+C:\Users\Cliente\Desktop\TP3-Mariana-Sukevicz\Dominio\obj\Debug\netstandard2.0\DomainDonation.pdb

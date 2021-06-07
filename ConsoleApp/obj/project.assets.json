@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DomainDonation/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/DomainDonation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DomainDonation.dll": {}
+        }
+      },
+      "Infra/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "DomainDonation": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DomainDonation/1.0.0": {
+      "type": "project",
+      "path": "../Dominio/DomainDonation.csproj",
+      "msbuildProject": "../Dominio/DomainDonation.csproj"
+    },
+    "Infra/1.0.0": {
+      "type": "project",
+      "path": "../Infraestrutura/Infra.csproj",
+      "msbuildProject": "../Infraestrutura/Infra.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DomainDonation >= 1.0.0",
+      "Infra >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Cliente\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Cliente\\Desktop\\TP3-Mariana-Sukevicz\\ConsoleApp\\ConsoleApp.csproj",
+      "projectName": "ConsoleApp",
+      "projectPath": "C:\\Users\\Cliente\\Desktop\\TP3-Mariana-Sukevicz\\ConsoleApp\\ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\Cliente\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Cliente\\Desktop\\TP3-Mariana-Sukevicz\\ConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Cliente\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Cliente\\Desktop\\TP3-Mariana-Sukevicz\\Dominio\\DomainDonation.csproj": {
+              "projectPath": "C:\\Users\\Cliente\\Desktop\\TP3-Mariana-Sukevicz\\Dominio\\DomainDonation.csproj"
+            },
+            "C:\\Users\\Cliente\\Desktop\\TP3-Mariana-Sukevicz\\Infraestrutura\\Infra.csproj": {
+              "projectPath": "C:\\Users\\Cliente\\Desktop\\TP3-Mariana-Sukevicz\\Infraestrutura\\Infra.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
